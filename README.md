@@ -12,12 +12,7 @@ Nalum is NSUT’s official alumni-student portal designed to connect and strengt
 - [Introduction](#introduction)
   - [How to install](#how-to-install)
   - [Execution](#how-to-execute)
-- [Supported arguments and commands](#supported-arguments-and-commands)
-- [Packages](#packages)
-  - [Commands](#commands)
-- [Getting started](#getting-started)
-- [Funding](#funding)
-
+    
 ## Introduction
 
 Nalum is built on NextJS and ExpressJS to provide a way for NSUT students and alumni to interact with each other. The site linked to this repository is [Nalum](https://nsut.alumninet.in/).
